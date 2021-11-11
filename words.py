@@ -1,0 +1,1 @@
+words = ["beautiful",   "mask" ,  "laptop","extra", "insstant", "fortunate","dress","instinct", "frighten","possible", "defination", "absurd", "absolute", "enthusiastic", "nominate", "dissolve", "random", "garbage" ,"mountain", "damage",]
